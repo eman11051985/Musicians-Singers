@@ -1,0 +1,152 @@
+
+.flex-container{
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content:center;
+    flex-flow: row wrap;
+    background-color:yellow;
+
+
+}
+.flex-container >div{
+    background-color:black;
+    margin: 0 0%;
+    padding: 0%;
+    font-size: 0 0px;
+}
+
+
+
+
+.fab {
+    color:yellow;}
+
+    
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+a {
+    text-transform: uppercase;
+    text-decoration: none;
+    color: black;
+}
+
+h1 {
+    color: yellow;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px 65px;
+    background-color: yellow;
+    height: 10px;
+}
+ul {
+    list-style: none;
+}
+nav ul li {
+    display: inline-block;
+    padding: 0 15px;
+    text-transform: uppercase;
+}
+nav ul li a {
+    transition: 3s;
+
+}
+nav ul li a:hover {
+    color: red;
+}
+.mu {
+    color: black;font-size: 200%;;
+}
+
+
+* {
+    margin:0 ;
+    padding: 0;
+    box-sizing: border-box;
+}
+.footer {
+    padding: 1px 0;
+    background-color:yellow;
+}
+.footer .social { text-align: center;
+    padding: 25px;
+    color: yellow;
+}
+
+.footer .social a {
+font-size: 19px;
+color: yellow;
+border: 1px solid yellow;
+width: 33px;
+height: 22px;
+line-height: 30px;
+display: inline-block;
+text-align: center;
+border-radius: 100%;
+margin:20px 10px;
+opacity: 100;
+}
+.footer .social a:hover {
+    opacity: 0.9;color: red;
+}
+
+.footer ul{
+    margin-top:0 ;
+    padding: 15;
+    list-style:none ;
+    font-size:15px ;
+    margin-bottom: 0;
+    text-align: center;
+}
+.footer ul li a {
+    color: black;
+    text-decoration: none;
+    opacity: 0.8;
+}
+.footer ul li {
+display: inline-block;
+padding: 0 5px;
+}
+.footer ul li a:hover {
+    opacity: 1;color: red;
+}
+
+
+body {
+    background-image:url(singer2/17.gif) ;
+
+}
+
+h2 {
+    text-align: center;margin:0 10px ;
+}
+
+p{
+    text-align: center;color: yellow;
+    font-size: 160%;border-style:dotted yellow ;
+    border: double;background-color:black;
+}
+.one {
+    text-align: center white ;font-size: 10%;
+}
+
+img {
+    border: dotted yellow;
+}
+
+h5 {
+    text-align: center;font-size: 700px;
+}
+p1 {
+    text-align: center;
+}
+
+p2 {
+    text-align: center; 
+}
+

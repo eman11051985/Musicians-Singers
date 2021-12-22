@@ -1,0 +1,174 @@
+body {
+    background-image:url(singer2/16.gif) ;
+
+}
+.flex-container{
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content:center;
+    flex-flow: row wrap;
+    background-color:black;
+
+
+}
+.flex-container >div{
+    background-color:black;
+    margin: 0 0%;
+    padding: 0%;
+    font-size: 0 0px;
+ 
+}
+iframe{
+    width: 1000px; border-style: dotted yellow;
+    height: 500px;
+}
+
+h1{
+    color:black;
+    border:yellow;border-style:double ; 
+    padding:1 0px;font-size: 32px ;
+}
+p 
+{ color:yellow;font-size: 35px;margin: center; text-align: center;
+    font: size 25px;border-color:yellow;background-color:black;
+    border-style:dotted;margin: 10px;padding: 20px;text-decoration: underline;
+}
+ol{ color:yellow;
+    
+
+}
+li{ color:yellow;font-size:15;text-decoration: underline;
+   }
+li
+
+
+
+h2 {background-color:black;color:yellow;font-size: 25px;border-color:yellow;text-align: center;
+    border-style:dotted;margin: 15px;padding: 10px;
+
+}
+h3 {
+    text-align: center;
+    
+    
+}
+
+h5 {
+    text-align: center;
+}
+h4 {
+    text-align: center;color: yellow;font-size: 50px; 
+}
+
+
+
+
+.fab {
+    color:yellow;}
+
+    
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+a {
+    text-transform: uppercase;
+    text-decoration: none;
+    color: black;
+}
+
+h1 {
+    color: yellow;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px 65px;
+    background-color: yellow;
+    height: 10px;
+}
+ul {
+    list-style: none;
+}
+nav ul li {
+    display: inline-block;
+    padding: 0 15px;
+    text-transform: uppercase;
+}
+nav ul li a {
+    transition: 3s;
+
+}
+nav ul li a:hover {
+    color: red;
+}
+.mu {
+    color: black;font-size: 100%;;
+}
+
+
+* {
+    margin:0 ;
+    padding: 0;
+    box-sizing: border-box;
+}
+.footer {
+    padding: 0;
+    background-color:yellow;
+}
+.footer .social { text-align: center;
+    padding: 5px;
+    color: yellow;
+}
+
+.footer .social a {
+font-size: 0px;
+color: yellow;
+border: 1px solid yellow;
+width: 33px;
+height: 22px;
+line-height: 20px;
+display: inline-block;
+text-align: center;
+border-radius: 100%;
+margin:10px 10px;
+opacity: 100;
+
+}
+.footer .social a:hover {
+    opacity: 0.9;color: red;
+}
+
+
+
+.footer ul{
+    margin-top:0 ;
+    padding: 0;
+    list-style:none ;
+    font-size: 5px ;
+    margin-bottom: 0;
+    text-align: center;
+}
+.footer ul li a {
+    color: black;
+    text-decoration: none;
+    opacity: 0.8;
+}
+.footer ul li {
+display: inline-block;
+padding: 15 20px;
+}
+.footer ul li a:hover {
+    opacity: 1;color: red;
+}
+
+img {
+    border: dotted yellow;
+}
+
+
+.frame-border {
+    border: dotted yellow;
+}
